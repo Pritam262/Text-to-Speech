@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="50598e7f-b5ae-45fd-be8c-34d25e8e2e57" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/texttospeech.py" beforeDir="false" afterPath="$PROJECT_DIR$/texttospeech.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/texttospeech.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -41,9 +40,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="161" />
-    <option name="y" value="56" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="433" />
+    <option name="y" value="128" />
     <option name="width" value="766" />
     <option name="height" value="1000" />
   </component>
@@ -53,8 +52,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,7 +122,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.35409456" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -140,8 +139,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/texttospeech.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
