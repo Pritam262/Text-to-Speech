@@ -13,6 +13,8 @@ converter = pyttsx3.init()
 converter.setProperty('rate', 140)
 # Set volume 0-1
 converter.setProperty('volume', 0.8)
+voices = converter.getProperty('voices')
+converter.setProperty('voice', voices[1].id) #changing index changes voices but ony 0 and 1 are working here
 
 # Queue the entered text
 # There will be a pause between
