@@ -18,7 +18,7 @@ converter.setProperty('volume', 0.8)
 # There will be a pause between
 # each one like a pause in
 # a sentence
-converter.say('''Parliament’s IT committee drops 4G in J&K issue from meeting agenda''')
+converter.say('''Parliament’s IT committee drops 4G in J&K issue from meeting agenda.''')
 # converter.say("I'm also a geek")
 
 # Empties the say() queue
