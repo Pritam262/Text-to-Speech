@@ -1,14 +1,27 @@
-
-#import the pyttsx3 module inside program
+# Python program to show
+# how to convert text to speech
 import pyttsx3
 
-#initializing the module
+# Initialize the converter
+converter = pyttsx3.init()
 
-engine = pyttsx3.init()
-  # .say() funtion is used to spak the text which you are written
+# Set properties before adding
+# Things to say
 
-engine.say("Hey, What is your name?")
+# Sets speed percent
+# Can be more than 100
+converter.setProperty('rate', 140)
+# Set volume 0-1
+converter.setProperty('volume', 0.8)
 
-#this is used to process and run the program
+# Queue the entered text
+# There will be a pause between
+# each one like a pause in
+# a sentence
+converter.say('''Parliament’s IT committee drops 4G in J&K issue from meeting agenda''')
+# converter.say("I'm also a geek")
 
-engine.runAndWait()
+# Empties the say() queue
+# Program will not continue
+# until all speech is done talking
+converter.runAndWait()
