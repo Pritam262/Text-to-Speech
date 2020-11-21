@@ -14,7 +14,7 @@ pip install pyttsx3
 ## Usage
 
 ```python
-To convert convert Text to Speech
+To convert Text to Speech
 ```
 
 ## Contributing
